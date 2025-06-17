@@ -14,8 +14,8 @@ An intelligent content creation system that researches the latest trends using P
 - **🔧 Fully Configurable**: No more hardcoded topics! Configure your content focus in `topics.json`
 - **🎯 Interactive Topic Selection**: Choose which topics to research without editing code
 - **📊 Real-time Research**: Scrapes latest trends from the past 30 days using Perplexity's advanced Sonar-Pro model
-- **🤖 AI Content Generation**: Creates professional LinkedIn posts (300-500 words) using ChatGPT 4o
-- **🎨 Image Creation**: Generates custom images for each post using DALL-E 3
+- **🤖 AI Content Generation**: Creates professional LinkedIn posts (300-500 words) using ChatGPT o3
+- **🎨 Image Creation**: Generates custom images for each post using image-gen-1
 - **📄 Professional Reports**: Timestamped HTML reports with all generated content
 - **⚡ One-Click Execution**: Simple `.bat` file for Windows, `.sh` for Mac/Linux
 
@@ -23,8 +23,8 @@ An intelligent content creation system that researches the latest trends using P
 
 1. **📋 Topic Configuration**: Edit `topics.json` or use interactive selection
 2. **🔍 Research Phase**: Uses Perplexity API to find latest news and trends
-3. **✍️ Content Generation**: ChatGPT 4o transforms research into engaging LinkedIn posts
-4. **🎨 Image Creation**: DALL-E 3 generates professional images for each post
+3. **✍️ Content Generation**: ChatGPT o3 transforms research into engaging LinkedIn posts
+4. **🎨 Image Creation**: image-gen-1 generates professional images for each post
 5. **📊 Report Generation**: Compiles everything into beautiful HTML reports
 
 ## 🛠️ Quick Start
@@ -182,14 +182,7 @@ The system includes a powerful topic selector:
 - **Source Domains**: Customize trusted news sources
 - **Content Quality**: Adjust minimum content length thresholds
 
-## 💰 Cost Estimation
 
-**Per Full Run (8 posts):**
-- Perplexity Sonar-Pro: ~$8-12 (advanced model)
-- OpenAI API (GPT-4o + DALL-E 3): ~$10-15
-- **Total**: ~$18-27 per run
-
-*Costs may vary based on content complexity and API pricing*
 
 ## 🚀 Getting Started Examples
 
@@ -237,7 +230,7 @@ The system includes a powerful topic selector:
    - Check Perplexity API key has search capabilities
 
 3. **Image Generation Fails**
-   - Verify OpenAI account has DALL-E 3 access
+   - Verify OpenAI account has image-gen-1 access
    - Check OpenAI API usage limits
 
 4. **Empty Research Results**

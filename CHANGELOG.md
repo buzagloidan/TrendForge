@@ -9,12 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Initial open-source release
-- AI-powered content automation using Perplexity Sonar-Pro and OpenAI GPT-4o
+- AI-powered content automation using Perplexity Sonar-Pro and ChatGPT o3
 - Configurable topics via `topics.json`
 - Interactive topic selection system
 - Cross-platform support (Windows, Mac, Linux)
 - Professional HTML report generation
-- Custom AI image generation with DALL-E 3
+- Custom AI image generation with image-gen-1
 - Rate limiting and error handling
 - Comprehensive documentation and contribution guidelines
 
@@ -33,8 +33,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### API Integrations
 - Perplexity Sonar-Pro for trend research
-- OpenAI GPT-4o for content generation
-- OpenAI DALL-E 3 for image creation
+- ChatGPT o3 for content generation
+- image-gen-1 for image creation
 
 ---
 
