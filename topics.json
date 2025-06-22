@@ -1,0 +1,29 @@
+{
+  "content_focus": "Technology and Innovation",
+  "topics": [
+    "Artificial Intelligence and Machine Learning",
+    "Blockchain and Cryptocurrency", 
+    "Cybersecurity trends",
+    "Cloud computing innovations",
+    "Internet of Things (IoT)",
+    "5G technology and applications",
+    "Quantum computing developments",
+    "Virtual and Augmented Reality",
+    "Robotics and automation",
+    "Green technology and sustainability",
+    "Fintech innovations",
+    "E-commerce trends",
+    "Digital marketing strategies",
+    "Remote work technology",
+    "Data science and analytics",
+    "Software development trends",
+    "Mobile app development",
+    "Web3 and decentralized applications"
+  ],
+  "post_settings": {
+    "word_count_range": "300-500",
+    "include_hashtags": true,
+    "include_questions": true,
+    "tone": "professional but engaging"
+  }
+} 
